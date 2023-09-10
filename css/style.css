@@ -45,4 +45,14 @@
     border: none;
 }
 
-/*  */
+@media only screen and (max-width: 768px) {
+
+    .single-info {
+        margin-top: 150px;
+    }
+
+
+    .our-process-container .single-our-process {
+        margin-top: 50px;
+    }
+}
